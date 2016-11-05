@@ -1,9 +1,8 @@
-# twitter_sentiment_challenge
-Twitter Sentiment Analysis Challenge for Learn Python for Data Science #2 by @Sirajology on Youtube
+# Twitter_Facebook_sentiment_Analysis
+This code allows you to connect into Facebook and Twitter in order to retreive content and analyse sentiments
 
-##Overview
-
-This is the code for the Twitter Sentiment Analyzer challenge for 'Learn Python for Data Science #2' by @Sirajology on [YouTube](https://youtu.be/o_OZdbCzHUA). The code uses the [tweepy](http://www.tweepy.org/)  library to access the Twitter API and the [TextBlob](https://textblob.readthedocs.io/en/dev/) library to perform Sentiment Analysis on each Tweet. We'll be able to see how positive or negative each tweet is about whatever topic we choose. 
+##Credit
+Originally, Twitter part is forked from Sirajology amazing work. I added the Facebook part as part of this challenge: https://www.youtube.com/watch?v=o_OZdbCzHUA
 
 ##Dependencies
 
